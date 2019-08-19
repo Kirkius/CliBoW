@@ -3,7 +3,7 @@ This repository contains the code written for the final thesis during my Masters
 
 Much of the code still needs to be cleaned up, and many functions still require documentation. I will try to finish these up in my spare time.
 
-The data used for this project came from the [MIMIC-III database](https://mimic.physionet.org). This data is not present in this database.
+The data used for this project came from the [MIMIC-III database](https://mimic.physionet.org). This data is not present in this repository.
 
 All code was written in Python 3.6.
 
